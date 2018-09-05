@@ -3,13 +3,21 @@ Kdb+ script to select cards for a game of Dominion.
 
 # Dominion expansions:
 Dominion v2
+
 Intrigue v2
+
 Seaside
+
 Prosperity
+
 Hinterlands
+
 Dark Ages
+
 Guilds
+
 Cornucopia
+
 Empires
 
 # To run:
