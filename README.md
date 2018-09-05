@@ -21,4 +21,4 @@ To select another kingdom, run
 
 To select a kingdom using a subset of the Dominion expansions, e.g. Seaside and Guilds, run
 
-"q)deal\`Seaside\`Guilds"
+`q)deal``Seaside``Guilds`
