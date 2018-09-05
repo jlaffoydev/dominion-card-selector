@@ -17,8 +17,8 @@ Load the q script into a q process and it will automatically select kingdom card
 
 To select another kingdom, run
 
-`q)deal[]`
+q)deal[]
 
 To select a kingdom using a subset of the Dominion expansions, e.g. Seaside and Guilds, run
 
-'q)deal`Seaside`Guilds'
+q)deal\`Seaside\`Guilds
